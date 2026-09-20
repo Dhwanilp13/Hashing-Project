@@ -2,7 +2,7 @@
 by Dhwanil Patel
 Second Project on Hashing for EN.605.620.81.FA24
 
-## Running Proj1 module
+## Running Proj2 module
 1. Download and install the latest version of Python on your computer
 2. Navigate to this directory (containing the README.md)
 3. The input files should be in the same directory as the README.md; if not, use the full path
